@@ -10,6 +10,7 @@ My primary coding experience is in C, C++, and Java.
 I also use Python from time to time, and have some knowledge of Assembly.
 
 Please note that much of my code from school and work is stored in private repositories for various reasons.  
+Private repositories include previous works in Java, C, and MIPS Assembly.  
 If you would like to access them, do not hesitate to reach out.
 
 P.S. If it is not obvious from my profile picture, I am a big cat person. His name is Otis!
