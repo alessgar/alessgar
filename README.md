@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-### I'm Garrett, a Sophomore CS Student @ UMCP  
+### I'm Garrett, a Junior CS Student @ UMCP  
 
  - I spend most of my free time learning new technologies, tinkering, gaming, and spending time with friends.
  - I most enjoy doing backend programming and software engineering.
